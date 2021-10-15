@@ -1,0 +1,13 @@
+C:\Users\ThanhNguyen\source\repos\BaiTapCoban\BaiTapCoban\bin\Debug\netcoreapp3.1\BaiTapCoban.exe
+C:\Users\ThanhNguyen\source\repos\BaiTapCoban\BaiTapCoban\bin\Debug\netcoreapp3.1\BaiTapCoban.deps.json
+C:\Users\ThanhNguyen\source\repos\BaiTapCoban\BaiTapCoban\bin\Debug\netcoreapp3.1\BaiTapCoban.runtimeconfig.json
+C:\Users\ThanhNguyen\source\repos\BaiTapCoban\BaiTapCoban\bin\Debug\netcoreapp3.1\BaiTapCoban.runtimeconfig.dev.json
+C:\Users\ThanhNguyen\source\repos\BaiTapCoban\BaiTapCoban\bin\Debug\netcoreapp3.1\BaiTapCoban.dll
+C:\Users\ThanhNguyen\source\repos\BaiTapCoban\BaiTapCoban\bin\Debug\netcoreapp3.1\BaiTapCoban.pdb
+C:\Users\ThanhNguyen\source\repos\BaiTapCoban\BaiTapCoban\obj\Debug\netcoreapp3.1\BaiTapCoban.csproj.AssemblyReference.cache
+C:\Users\ThanhNguyen\source\repos\BaiTapCoban\BaiTapCoban\obj\Debug\netcoreapp3.1\BaiTapCoban.AssemblyInfoInputs.cache
+C:\Users\ThanhNguyen\source\repos\BaiTapCoban\BaiTapCoban\obj\Debug\netcoreapp3.1\BaiTapCoban.AssemblyInfo.cs
+C:\Users\ThanhNguyen\source\repos\BaiTapCoban\BaiTapCoban\obj\Debug\netcoreapp3.1\BaiTapCoban.csproj.CoreCompileInputs.cache
+C:\Users\ThanhNguyen\source\repos\BaiTapCoban\BaiTapCoban\obj\Debug\netcoreapp3.1\BaiTapCoban.dll
+C:\Users\ThanhNguyen\source\repos\BaiTapCoban\BaiTapCoban\obj\Debug\netcoreapp3.1\BaiTapCoban.pdb
+C:\Users\ThanhNguyen\source\repos\BaiTapCoban\BaiTapCoban\obj\Debug\netcoreapp3.1\BaiTapCoban.genruntimeconfig.cache
